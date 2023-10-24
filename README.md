@@ -1,7 +1,7 @@
 
 # Py-Lingo
 
-A personal project to automate the process of getting updates related to my duolingo account.
+A personal project to automate the process of getting updates related to my duolingo account. Used whatsApp API to send updates directly to my whatsApp chat.
 Could be used to get the data of some other user, although that would have limitations without password access.
 ## NOTE: This is a "personal" project created solely for "personal" usage. So use it on "personal" risk.  
 
